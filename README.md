@@ -49,6 +49,6 @@ You'll be asked to choose an algorithm (1-4) and an array size, then a window wi
 
 ## Author
 ```
-Sahil Pandey — B.Tech Software Engineering, Delhi Technological University
+Sahil Pandey — B.Tech, Delhi Technological University
 ```
 
