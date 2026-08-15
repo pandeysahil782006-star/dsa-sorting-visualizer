@@ -33,12 +33,13 @@ python3 step6_main.py
 You'll be asked to choose an algorithm (1-4) and an array size, then a window will open showing the sort happening live.
 
 ## Project Structure
-step1_bubble_sort.py # plain bubble sort, terminal output only
-step2_bubble_sort_visual.py # bubble sort + matplotlib animation
-step3_selection_sort_visual.py # selection sort + animation
-step4_merge_sort_visual.py # merge sort + animation
-step5_quick_sort_visual.py # quick sort + animation
-step6_main.py # combined menu - run this one
+
+- `Step_1.py` — plain bubble sort, terminal output only
+- `Step_2.py` — bubble sort + matplotlib animation
+- `Step_3.py` — selection sort + animation
+- `Step_4.py` — merge sort + animation
+- `Step_5.py` — quick sort + animation
+- `Step_6.py` — combined menu, run this one
 
 ## What I learned building this
 
@@ -47,9 +48,7 @@ step6_main.py # combined menu - run this one
 - Structuring a small Python project with reusable components (shared `draw()` function across algorithms)
 
 ## Author
-
+```
 Sahil Pandey — B.Tech Software Engineering, Delhi Technological University
-
 ```
 
-```
